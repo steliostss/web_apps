@@ -41,7 +41,7 @@ public class SquareServlet extends HttpServlet {
 
 				res.addCookie(cookie_4);
 				res.addCookie(cookie_5);
-				
+
 		out.print("</form>"); 
 
 		out.close();	
