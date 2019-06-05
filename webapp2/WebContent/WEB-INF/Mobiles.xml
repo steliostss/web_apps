@@ -1,0 +1,20 @@
+<?xml version="1.0"?> 
+<!-- REFERENCE TO THE STYLESHEET: -->
+<!-- not present here, is prorgammatically arranged -->
+<vehicles>
+  <vehicle year="2009" company="Apple" model="iPhone 4s">
+    <capacity>16gb</capacity>
+    <color>silver</color>
+    <price>$330</price>
+ </vehicle>
+  <vehicle year="2017" company="Samsung" model="Note9">
+    <capacity>128gb</capacity>
+    <color>brown</color>
+    <price>$820</price>
+  </vehicle>
+  <vehicle year="2016" company="Xiaomi" model="Mi A1">
+    <capacity>64gb</capacity>
+    <color>black</color>
+    <price>$220</price>
+  </vehicle>
+</vehicles>

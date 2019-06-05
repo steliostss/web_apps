@@ -1,0 +1,20 @@
+<?xml version="1.0"?> 
+<!-- REFERENCE TO THE STYLESHEET: -->
+<!-- not present here, is prorgammatically arranged -->
+<vehicles>
+  <vehicle year="1999" make="Boatsie" model="OasisX">
+    <type>yacht</type>
+    <color>white</color>
+    <price>$33000</price>
+ </vehicle>
+  <vehicle year="2014" make="Shipthis" model="Ohi-matey3000">
+    <type>catamaran</type>
+    <color>gold</color>
+    <price>$333999</price>
+  </vehicle>
+  <vehicle year="2018" make="Boatsie" model="Flexit">
+    <type>lux yacht</type>
+    <color>silver</color>
+    <price>$1050999</price>
+  </vehicle>
+</vehicles>
